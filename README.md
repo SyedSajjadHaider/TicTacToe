@@ -1,8 +1,8 @@
 # TicTacToe
-2 player TicTacToe first version  0.1
+2 player TicTacToe second version  0.2
 
 Basic idea is to create a command line Tic Tac Toe game that 2 player can play on same computer 
-This is version 0.1 of game , in version 0.2 i will imporove code (use list instead of global variable ...) ,add a Tkinter GUI 
+This is version 0.2 of game , in version 0.3 i will imporove code  ,add a Tkinter GUI 
 
 The code may not be the most efficient code but its working fine and i am trying to create a better algo for TicTacToe
 
